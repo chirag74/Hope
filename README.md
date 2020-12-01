@@ -1,6 +1,6 @@
-# Hope
-Hope code
+
 //Diamond code//
+
 #include<iostream>
 using namespace std;
 int main()
@@ -15,8 +15,8 @@ int main()
 	else
 	{
 	
-	m=(n/2)+1;
-}
+	 m=(n/2)+1;
+         }
 	int i=1;
 	while(i<=m)
 	{
